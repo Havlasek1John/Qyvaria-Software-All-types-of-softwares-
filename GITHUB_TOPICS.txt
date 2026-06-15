@@ -1,0 +1,11 @@
+qyvaria
+desktop-app
+python
+windows
+linux
+optimizer
+zip
+installer
+tkinter
+software-suite
+apache-2-0

@@ -1,0 +1,24 @@
+{
+  "recommended_repo_name": "qyvaria-softwares",
+  "license": "Apache License 2.0",
+  "created": "2026-06-15T20:35:06.535019",
+  "apps": [
+    {
+      "name": "AI Inspector Editor",
+      "suggested_folder": "ai_inspector_editor"
+    },
+    {
+      "name": "QTask Optimizer",
+      "suggested_folder": "qtask_optimizer"
+    },
+    {
+      "name": "Qyvaria Zip Resizer",
+      "suggested_folder": "qyvaria_zip_resizer"
+    },
+    {
+      "name": "SafeSpeed Optimizer",
+      "suggested_folder": "safespeed_optimizer"
+    }
+  ],
+  "daily_update_statement": "This GitHub repository will be updated daily with new Qyvaria software and improvements."
+}
